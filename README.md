@@ -12,3 +12,5 @@ Basic agent based model showcase
 There is also rule when enough honey is gathered, the new bee emerges from the beehive.
 
 Those simple rules show how overshooting and acceleration causes movemnt to be more organic and beliveable even in such a basic model.
+
+![Alt Text](https://media.giphy.com/media/l2FCoN4s91LLND7bwr/giphy.gif)
