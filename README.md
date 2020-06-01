@@ -6,7 +6,7 @@ Basic agent based model showcase
   These are basic principles of the simulation:
   1. Bee goes out from the beehive
   2. Bee picks a random flower from the grassland
-  3. Then it tries to get as close to the flower as possible while maintaining movement
+  3. Then it tries to get as close to the flower as possible while momentum and trying to be in constant motion
   4. When it gets close enough, it carries honey to the beehive
 
 Thee is also rule when enough honey is gathered, the new bee emerges from the beehive.
